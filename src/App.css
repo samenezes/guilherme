@@ -1,0 +1,28 @@
+body{
+padding: 0;
+background-color: black;
+}
+
+
+.header{
+padding-bottom: 900px;
+padding-left: 940px;
+color: chartreuse;
+}
+
+.footer{
+padding-left: 940px;
+padding-bottom: 10px;
+color: red;
+}
+
+.button{
+padding-bottom: 10px;
+}
+
+
+
+
+
+
+
